@@ -1,3 +1,5 @@
+#!/bin/bash
+
 clear
 echo """
             ████████╗██╗    ██╗██╗███████╗██╗  ██╗
@@ -11,8 +13,8 @@ echo """
 
 """
 
-read -p "Paste twitter url: " url
-read -p "Output file name: " file_name
+read -p $'\e[34mPaste twitter url: \e[0m' url
+read -p $'\e[34mOutput file name: \e[0m' file_name
 clear
-echo "Downloading..."
+echo -e "\e[31mDownloading...\e[0m"
 youtube-dl ${url} -o ${file_name}
