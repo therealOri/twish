@@ -9,4 +9,5 @@ __ __
 <br />
 
 # Example
-![image](https://cdn.discordapp.com/attachments/544314277323079687/970774564684582992/unknown.png)
+![image](https://user-images.githubusercontent.com/45724082/166334033-76b45df1-f6e3-4047-88c6-8f499b64238c.png)
+
