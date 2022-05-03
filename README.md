@@ -16,7 +16,7 @@ __ __
 <br />
 
 # Ussage
-> I will give you soem steps on how to use this script if you are on Windows and some extra help if on linux for permissions. I couldn't be asked to re-write this script in batch/.bat. If you know how and script in `.bat` then please contribute and make a pull request. I'd love to have a bat and a .sh version of this script for those on any platform. (If you know how to script and make this work on mac then by all means, make a pull request too).
+> I will give you some steps on how to use this script if you are on Windows and some extra help if on linux for permissions. I couldn't be asked to re-write this script in batch/.bat. If you know how and script in `.bat` then please contribute and make a pull request. I'd love to have a bat and a .sh version of this script for those on any platform. (If you know how to script and make this work on mac then by all means, make a pull request too).
 __ __
 
 <br />
